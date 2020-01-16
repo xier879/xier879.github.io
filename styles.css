@@ -41,6 +41,18 @@
   transform: rotate(90deg);
   margin-left: 43%;
     }
+  .col-md-4{
+    border: 2px solid red;
+    border-radius: 25px;
+
+  }
+ 
+  .text-in-center{
+    text-align: center;
+    margin:auto;
+
+  }
+
 
   
 
